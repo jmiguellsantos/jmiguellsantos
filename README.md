@@ -22,4 +22,6 @@
 [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.linkedin.com/in/joaomiguelsantos21/)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiguellsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Apaixonado por tecnologia, desafios e experiências!
