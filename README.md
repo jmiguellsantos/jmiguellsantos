@@ -14,6 +14,10 @@
 [![Blog](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://www.linkedin.com/in/joaomiguelsantos21/)
 [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/joaomiguelsantos21/)
 
+[![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://www.linkedin.com/in/joaomiguelsantos21/)
+[![Blog](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://www.linkedin.com/in/joaomiguelsantos21/)
+[![Blog](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://www.linkedin.com/in/joaomiguelsantos21/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiguellsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
