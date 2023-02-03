@@ -19,6 +19,4 @@
 [![Blog](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://www.linkedin.com/in/joaomiguelsantos21/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmiguellsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 Apaixonado por tecnologia, desafios e experiências!
